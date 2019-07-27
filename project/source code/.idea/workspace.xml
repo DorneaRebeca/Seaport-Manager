@@ -1,0 +1,2759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="220e1856-0f33-44b6-9d1e-3e0cc845a8a2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/server/target/" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/sql_demo$Server.ic" NAME="Server Coverage Results" MODIFIED="1558340194812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ro.utcluj.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-675847350">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1631750937">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="40" />
+          <entry key="fxml" value="28" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="495" />
+          <entry key="properties" value="6" />
+          <entry key="uml" value="1" />
+          <entry key="xml" value="30" />
+          <entry key="yml" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="40" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="495" />
+          <entry key="Properties" value="6" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="58" />
+          <entry key="YAML" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="fxml" value="36" />
+          <entry key="java" value="26449" />
+          <entry key="properties" value="13" />
+          <entry key="xml" value="52" />
+          <entry key="yml" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="26449" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="13" />
+          <entry key="XML" value="88" />
+          <entry key="YAML" value="53" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sql-demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/ClientService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3384">
+              <caret line="268" column="27" selection-start-line="268" selection-start-column="27" selection-end-line="268" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../proiectSeaport/diagram.uml">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="445.32161670073515" y="248.0">ro.utcluj.model.Cargo</node>
+                <node x="3686.8319096827913" y="1544.0">ro.utcluj.controller.ClientPage</node>
+                <node x="1087.8988095238099" y="1185.0">ro.utcluj.repositories.CargoRepository</node>
+                <node x="2579.90915171474" y="826.0">ro.utcluj.mapper.RentalMapper</node>
+                <node x="2550.114676167765" y="377.0">ro.utcluj.api.ClientBaseDTO</node>
+                <node x="3853.0997668256487" y="377.0">ro.utcluj.notification.ClientSocketConnection</node>
+                <node x="3612.6234374290257" y="377.0">ro.utcluj.api.RentalBaseDTO</node>
+                <node x="2371.796819024908" y="377.0">ro.utcluj.api.CargoBaseDTO</node>
+                <node x="190.41666666666697" y="1185.0">ro.utcluj.report.ReportFactory</node>
+                <node x="2755.90915171474" y="826.0">ro.utcluj.api.AdminServiceInterface</node>
+                <node x="1238.3335903550608" y="1544.0">ro.utcluj.config.SecurityConfig</node>
+                <node x="251.00000000000023" y="826.0">ro.utcluj.report.PDFReport</node>
+                <node x="3775.6234374290257" y="826.0">ro.utcluj.notification.NotificationService</node>
+                <node x="1403.8335903550608" y="826.0">ro.utcluj.repositories.ClientRepository</node>
+                <node x="769.8988095238099" y="1185.0">ro.utcluj.repositories.SaleNoRepository</node>
+                <node x="0.0" y="826.0">ro.utcluj.model.Salenumber</node>
+                <node x="0.0" y="1618.0">ro.utcluj.notification.ServerSocketListener</node>
+                <node x="421.13095238095275" y="826.0">ro.utcluj.mapper.CargoMapper</node>
+                <node x="1800.4322478991598" y="1185.0">ro.utcluj.repositories.DockRepository</node>
+                <node x="1721.1201033386337" y="248.0">ro.utcluj.model.Sold</node>
+                <node x="930.8988095238099" y="1185.0">ro.utcluj.repositories.RentalRepository</node>
+                <node x="2129.7103332954803" y="826.0">ro.utcluj.mapper.DockMapper</node>
+                <node x="3161.1234374290257" y="1185.0">ro.utcluj.service.StringProcessor</node>
+                <node x="199.00000000000023" y="377.0">ro.utcluj.report.Report</node>
+                <node x="2412.505265160118" y="1544.0">ro.utcluj.service.LoginService</node>
+                <node x="562.1309523809527" y="826.0">ro.utcluj.model.CustomUserDetails</node>
+                <node x="2959.6234374290257" y="826.0">ro.utcluj.api.LoginServiceInterface</node>
+                <node x="131.00000000000023" y="826.0">ro.utcluj.report.TxtReport</node>
+                <node x="3312.1234374290257" y="1185.0">ro.utcluj.controller.LoginController</node>
+                <node x="1699.6956274131276" y="1544.0">ro.utcluj.service.ClientService</node>
+                <node x="1444.8988095238099" y="1185.0">ro.utcluj.mapper.ClientMapper</node>
+                <node x="2960.4372240517832" y="1544.0">ro.utcluj.controller.AdminPage</node>
+                <node x="1661.2451033386337" y="377.0">ro.utcluj.model.Client</node>
+                <node x="2278.942765160118" y="1185.0">ro.utcluj.service.ContextGetter</node>
+                <node x="3493.1234374290257" y="826.0">ro.utcluj.api.ClientServiceInterface</node>
+                <node x="1995.404950034068" y="0.0">ro.utcluj.model.Rental</node>
+                <node x="1244.8988095238099" y="1185.0">ro.utcluj.service.CustomUserDetailService</node>
+                <node x="1652.4322478991598" y="1185.0">ro.utcluj.repositories.SoldRepository</node>
+                <node x="655.2906904383376" y="1544.0">ro.utcluj.service.AdminService</node>
+                <node x="3140.6234374290257" y="826.0">ro.utcluj.api.StringProcesorInterface</node>
+                <node x="2947.703961882051" y="377.0">ro.utcluj.api.DockBaseDTO</node>
+                <node x="1970.7169937164049" y="149.0">ro.utcluj.model.Dock</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="ro.utcluj.report.ReportFactory" target="ro.utcluj.report.PDFReport">
+                  <point x="40.666666666666515" y="-14.5" />
+                  <point x="292.0833333333335" y="1165.0" />
+                  <point x="303.0000000000002" y="1165.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.ClientServiceInterface">
+                  <point x="49.470588235294144" y="-14.5" />
+                  <point x="1807.1662156484217" y="1504.0" />
+                  <point x="2268.442765160118" y="1504.0" />
+                  <point x="2268.442765160118" y="1085.0" />
+                  <point x="3509.323437429026" y="1085.0" />
+                  <point x="-64.79999999999995" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.repositories.SoldRepository" target="ro.utcluj.model.Sold">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1715.9322478991598" y="915.0" />
+                  <point x="1941.8531904383376" y="915.0" />
+                  <point x="1941.8531904383376" y="347.0" />
+                  <point x="1776.905817624348" y="347.0" />
+                  <point x="20.28571428571422" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.mapper.ClientMapper">
+                  <point x="-29.0" y="-14.5" />
+                  <point x="1728.6956274131276" y="1384.0" />
+                  <point x="1514.8988095238099" y="1384.0" />
+                  <point x="10.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.api.ClientServiceInterface" target="ro.utcluj.api.CargoBaseDTO">
+                  <point x="-60.75" y="-14.5" />
+                  <point x="3513.3734374290257" y="516.0" />
+                  <point x="2480.5968190249077" y="516.0" />
+                  <point x="44.799999999999955" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.RentalMapper" target="ro.utcluj.model.Rental">
+                  <point x="-40.66666666666674" y="-14.5" />
+                  <point x="2600.242485048073" y="636.0" />
+                  <point x="2333.7634856915747" y="636.0" />
+                  <point x="2333.7634856915747" y="109.0" />
+                  <point x="2073.029950034068" y="109.0" />
+                  <point x="37.125" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.DockBaseDTO">
+                  <point x="21.0" y="-14.5" />
+                  <point x="3760.3319096827913" y="1394.0" />
+                  <point x="3747.9747668256487" y="1394.0" />
+                  <point x="3747.9747668256487" y="446.0" />
+                  <point x="3060.453961882051" y="446.0" />
+                  <point x="51.25" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.StringProcessor" target="ro.utcluj.api.StringProcesorInterface">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Client">
+                  <point x="-11.941176470588289" y="-14.5" />
+                  <point x="1745.7544509425393" y="1334.0" />
+                  <point x="1638.5204831932774" y="1334.0" />
+                  <point x="1638.5204831932774" y="666.0" />
+                  <point x="1723.7867700053002" y="666.0" />
+                  <point x="23.041666666666515" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="11.909090909090992" y="-14.5" />
+                  <point x="3389.5325283381167" y="1075.0" />
+                  <point x="3482.6234374290257" y="1075.0" />
+                  <point x="3482.6234374290257" y="526.0" />
+                  <point x="2645.364676167765" y="526.0" />
+                  <point x="31.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.service.ContextGetter">
+                  <point x="-17.25" y="-14.5" />
+                  <point x="2452.755265160118" y="1264.0" />
+                  <point x="2384.817765160118" y="1264.0" />
+                  <point x="45.375" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.config.SecurityConfig" target="ro.utcluj.service.CustomUserDetailService">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1301.3335903550608" y="1504.0" />
+                  <point x="1334.8988095238099" y="1504.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Sold">
+                  <point x="-8.529411764705856" y="-14.5" />
+                  <point x="1749.1662156484217" y="1324.0" />
+                  <point x="1641.9322478991598" y="1324.0" />
+                  <point x="1641.9322478991598" y="905.0" />
+                  <point x="1919.5639747520631" y="905.0" />
+                  <point x="1919.5639747520631" y="357.0" />
+                  <point x="1766.7629604814908" y="357.0" />
+                  <point x="10.14285714285711" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.model.Cargo">
+                  <point x="-34.57142857142844" y="-14.5" />
+                  <point x="681.2192618669092" y="1484.0" />
+                  <point x="365.5000000000002" y="1484.0" />
+                  <point x="365.5000000000002" y="337.0" />
+                  <point x="468.65495003406863" y="337.0" />
+                  <point x="-16.666666666666515" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.report.ReportFactory">
+                  <point x="-46.095238095238074" y="-14.5" />
+                  <point x="669.6954523430995" y="1504.0" />
+                  <point x="220.91666666666697" y="1504.0" />
+                  <point x="-30.5" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.CargoMapper" target="ro.utcluj.model.Cargo">
+                  <point x="-50.416666666666515" y="-14.5" />
+                  <point x="431.21428571428623" y="556.0" />
+                  <point x="479.82161670073515" y="556.0" />
+                  <point x="479.82161670073515" y="357.0" />
+                  <point x="481.98828336740166" y="357.0" />
+                  <point x="-3.333333333333485" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Client" target="ro.utcluj.model.Rental">
+                  <point x="-3.291666666666515" y="-14.5" />
+                  <point x="1697.4534366719672" y="69.0" />
+                  <point x="2012.279950034068" y="69.0" />
+                  <point x="-23.625" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.StringProcesorInterface">
+                  <point x="-49.0" y="-14.5" />
+                  <point x="3690.3319096827913" y="1494.0" />
+                  <point x="3108.7305802861683" y="1494.0" />
+                  <point x="3108.7305802861683" y="1075.0" />
+                  <point x="3201.694866000454" y="1075.0" />
+                  <point x="-24.42857142857156" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.repositories.CargoRepository" target="ro.utcluj.model.Cargo">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1155.8988095238099" y="1005.0" />
+                  <point x="410.63095238095275" y="1005.0" />
+                  <point x="410.63095238095275" y="347.0" />
+                  <point x="475.32161670073515" y="347.0" />
+                  <point x="-10.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.StringProcesorInterface">
+                  <point x="-11.909090909090878" y="-14.5" />
+                  <point x="3365.7143465199347" y="1005.0" />
+                  <point x="3250.5520088575972" y="1005.0" />
+                  <point x="24.428571428571445" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.repositories.ClientRepository">
+                  <point x="5.761904761904589" y="-14.5" />
+                  <point x="721.5525952002422" y="1434.0" />
+                  <point x="753.6369047619048" y="1434.0" />
+                  <point x="753.6369047619048" y="1045.0" />
+                  <point x="1432.7621617836323" y="1045.0" />
+                  <point x="-38.57142857142844" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.CargoMapper" target="ro.utcluj.api.CargoBaseDTO">
+                  <point x="50.416666666666515" y="-14.5" />
+                  <point x="532.0476190476193" y="696.0" />
+                  <point x="2403.796819024908" y="696.0" />
+                  <point x="-32.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.repositories.ClientRepository">
+                  <point x="-5.75" y="-14.5" />
+                  <point x="2464.255265160118" y="1254.0" />
+                  <point x="2410.442765160118" y="1254.0" />
+                  <point x="2410.442765160118" y="895.0" />
+                  <point x="1509.9050189264892" y="895.0" />
+                  <point x="38.57142857142844" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.DockRepository">
+                  <point x="5.117647058823422" y="-14.5" />
+                  <point x="1762.813274471951" y="1374.0" />
+                  <point x="1833.1822478991598" y="1374.0" />
+                  <point x="-32.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.mapper.CargoMapper">
+                  <point x="-35.82352941176464" y="-14.5" />
+                  <point x="1721.8720980013627" y="1404.0" />
+                  <point x="1234.3988095238099" y="1404.0" />
+                  <point x="1234.3988095238099" y="995.0" />
+                  <point x="496.75595238095275" y="995.0" />
+                  <point x="15.125" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.notification.ClientSocketConnection" target="ro.utcluj.notification.NotificationService">
+                  <point x="70.39999999999986" y="14.5" />
+                  <point x="4011.4997668256483" y="806.0" />
+                  <point x="3908.823437429026" y="806.0" />
+                  <point x="59.200000000000045" y="-14.5" />
+                </edge>
+                <edge source="ro.utcluj.api.AdminServiceInterface" target="ro.utcluj.api.CargoBaseDTO">
+                  <point x="-41.75" y="-14.5" />
+                  <point x="2797.65915171474" y="596.0" />
+                  <point x="2454.9968190249083" y="596.0" />
+                  <point x="19.200000000000045" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="7.0" y="-14.5" />
+                  <point x="3746.3319096827913" y="1414.0" />
+                  <point x="3685.3734374290257" y="1414.0" />
+                  <point x="3685.3734374290257" y="466.0" />
+                  <point x="2672.578961882051" y="466.0" />
+                  <point x="58.96428571428578" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Rental">
+                  <point x="15.352941176470722" y="-14.5" />
+                  <point x="1773.0485685895983" y="1404.0" />
+                  <point x="1974.6465336134452" y="1404.0" />
+                  <point x="1974.6465336134452" y="955.0" />
+                  <point x="2108.2103332954803" y="955.0" />
+                  <point x="2108.2103332954803" y="129.0" />
+                  <point x="2059.529950034068" y="129.0" />
+                  <point x="23.625" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.api.LoginServiceInterface">
+                  <point x="51.75" y="-14.5" />
+                  <point x="2521.755265160118" y="1524.0" />
+                  <point x="2734.40915171474" y="1524.0" />
+                  <point x="2734.40915171474" y="1075.0" />
+                  <point x="2975.7234374290256" y="1075.0" />
+                  <point x="-64.40000000000009" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.ClientMapper" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="45.0" y="-14.5" />
+                  <point x="1549.8988095238099" y="965.0" />
+                  <point x="2119.2103332954803" y="965.0" />
+                  <point x="2119.2103332954803" y="726.0" />
+                  <point x="2572.793247596336" y="726.0" />
+                  <point x="-40.82142857142867" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.api.ClientServiceInterface" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="-20.25" y="-14.5" />
+                  <point x="3553.8734374290257" y="506.0" />
+                  <point x="2654.436104739194" y="506.0" />
+                  <point x="40.82142857142867" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.SoldRepository">
+                  <point x="-1.7058823529409892" y="-14.5" />
+                  <point x="1755.9897450601866" y="1304.0" />
+                  <point x="1747.6822478991598" y="1304.0" />
+                  <point x="31.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.DockMapper" target="ro.utcluj.model.Dock">
+                  <point x="-43.5" y="-14.5" />
+                  <point x="2144.2103332954803" y="666.0" />
+                  <point x="2083.7817618669087" y="666.0" />
+                  <point x="2083.7817618669087" y="208.0" />
+                  <point x="2029.6455651449764" y="208.0" />
+                  <point x="21.42857142857133" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.report.ReportFactory" target="ro.utcluj.report.TxtReport">
+                  <point x="-40.666666666666515" y="-14.5" />
+                  <point x="210.75000000000045" y="1165.0" />
+                  <point x="180.50000000000023" y="1165.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.CustomUserDetailService" target="ro.utcluj.model.Client">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1334.8988095238099" y="1025.0" />
+                  <point x="1301.3335903550608" y="1025.0" />
+                  <point x="1301.3335903550608" y="626.0" />
+                  <point x="1697.4534366719672" y="626.0" />
+                  <point x="-3.291666666666515" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.report.PDFReport" target="ro.utcluj.report.Report">
+                  <point x="-26.0" y="-14.5" />
+                  <point x="277.0000000000002" y="806.0" />
+                  <point x="268.16666666666674" y="806.0" />
+                  <point x="27.666666666666515" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.CargoBaseDTO">
+                  <point x="-51.071428571428555" y="-14.5" />
+                  <point x="2964.3657954803543" y="1514.0" />
+                  <point x="2723.40915171474" y="1514.0" />
+                  <point x="2723.40915171474" y="616.0" />
+                  <point x="2429.396819024908" y="616.0" />
+                  <point x="-6.400000000000091" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Dock" target="ro.utcluj.model.Sold">
+                  <point x="-10.71428571428578" y="14.5" />
+                  <point x="1997.502708002119" y="228.0" />
+                  <point x="1780.2867700053005" y="228.0" />
+                  <point x="23.666666666666742" y="-14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.RentalMapper" target="ro.utcluj.api.RentalBaseDTO">
+                  <point x="40.66666666666674" y="-14.5" />
+                  <point x="2681.575818381407" y="796.0" />
+                  <point x="3666.3734374290257" y="796.0" />
+                  <point x="-10.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.ClientRepository">
+                  <point x="-22.17647058823536" y="-14.5" />
+                  <point x="1735.519156824892" y="1364.0" />
+                  <point x="1578.810574229692" y="1364.0" />
+                  <point x="1578.810574229692" y="935.0" />
+                  <point x="1471.3335903550608" y="935.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.repositories.ClientRepository" target="ro.utcluj.model.Client">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1471.3335903550608" y="656.0" />
+                  <point x="1717.2034366719672" y="656.0" />
+                  <point x="16.458333333333485" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.CustomUserDetails" target="ro.utcluj.model.Client">
+                  <point x="-37.0" y="-14.5" />
+                  <point x="599.1309523809527" y="606.0" />
+                  <point x="1684.2867700053002" y="606.0" />
+                  <point x="-16.458333333333485" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.mapper.RentalMapper">
+                  <point x="42.64705882352928" y="-14.5" />
+                  <point x="1800.3426862366568" y="1484.0" />
+                  <point x="2261.6192357483533" y="1484.0" />
+                  <point x="2261.6192357483533" y="1045.0" />
+                  <point x="2610.40915171474" y="1045.0" />
+                  <point x="-30.5" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.repositories.SaleNoRepository" target="ro.utcluj.model.Salenumber">
+                  <point x="0.0" y="-14.5" />
+                  <point x="840.3988095238099" y="1025.0" />
+                  <point x="92.5" y="1025.0" />
+                  <point x="37.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.api.CargoBaseDTO">
+                  <point x="-23.04761904761881" y="-14.5" />
+                  <point x="692.7430713907188" y="1464.0" />
+                  <point x="393.26190476190527" y="1464.0" />
+                  <point x="393.26190476190527" y="676.0" />
+                  <point x="2378.196819024908" y="676.0" />
+                  <point x="-57.59999999999991" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.notification.NotificationService">
+                  <point x="42.0" y="-14.5" />
+                  <point x="3781.3319096827913" y="1514.0" />
+                  <point x="3909.0581001589817" y="1514.0" />
+                  <point x="3909.0581001589817" y="1165.0" />
+                  <point x="3911.290104095692" y="1165.0" />
+                  <point x="61.66666666666674" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.DockBaseDTO">
+                  <point x="35.823529411764866" y="-14.5" />
+                  <point x="1793.5191568248924" y="1464.0" />
+                  <point x="2254.795706336589" y="1464.0" />
+                  <point x="2254.795706336589" y="1025.0" />
+                  <point x="2467.8797399500345" y="1025.0" />
+                  <point x="2467.8797399500345" y="766.0" />
+                  <point x="2998.953961882051" y="766.0" />
+                  <point x="-10.25" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Dock" target="ro.utcluj.model.Rental">
+                  <point x="-9.375" y="-14.5" />
+                  <point x="1998.8419937164049" y="109.0" />
+                  <point x="2039.279950034068" y="109.0" />
+                  <point x="3.375" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.mapper.ClientMapper">
+                  <point x="-51.75" y="-14.5" />
+                  <point x="2418.255265160118" y="1294.0" />
+                  <point x="1534.8988095238099" y="1294.0" />
+                  <point x="30.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.api.ClientServiceInterface" target="ro.utcluj.api.DockBaseDTO">
+                  <point x="20.25" y="-14.5" />
+                  <point x="3594.3734374290257" y="496.0" />
+                  <point x="3019.453961882051" y="496.0" />
+                  <point x="10.25" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.mapper.ClientMapper">
+                  <point x="51.85714285714266" y="-14.5" />
+                  <point x="767.6478332954803" y="1514.0" />
+                  <point x="1454.8988095238099" y="1514.0" />
+                  <point x="-50.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.notification.NotificationService">
+                  <point x="35.35714285714289" y="-14.5" />
+                  <point x="3050.794366908926" y="1504.0" />
+                  <point x="3301.6234374290257" y="1504.0" />
+                  <point x="3301.6234374290257" y="1135.0" />
+                  <point x="3787.956770762359" y="1135.0" />
+                  <point x="-61.66666666666674" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.RentalBaseDTO">
+                  <point x="49.0" y="-14.5" />
+                  <point x="3788.3319096827913" y="1524.0" />
+                  <point x="3934.1234374290257" y="1524.0" />
+                  <point x="3934.1234374290257" y="426.0" />
+                  <point x="3730.8734374290257" y="426.0" />
+                  <point x="53.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.notification.NotificationService">
+                  <point x="47.636363636363626" y="-14.5" />
+                  <point x="3425.259801065389" y="1145.0" />
+                  <point x="3812.6234374290257" y="1145.0" />
+                  <point x="-37.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.report.TxtReport" target="ro.utcluj.report.Report">
+                  <point x="24.75" y="-14.5" />
+                  <point x="205.25000000000023" y="806.0" />
+                  <point x="212.8333333333337" y="806.0" />
+                  <point x="-27.666666666666515" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.LoginServiceInterface">
+                  <point x="11.785714285714334" y="-14.5" />
+                  <point x="3027.2229383374975" y="1474.0" />
+                  <point x="3040.1234374290257" y="1474.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.RentalRepository">
+                  <point x="-49.470588235294144" y="-14.5" />
+                  <point x="1708.2250391778334" y="1444.0" />
+                  <point x="1016.5238095238099" y="1444.0" />
+                  <point x="17.125" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.report.TxtReport" target="ro.utcluj.model.Cargo">
+                  <point x="-24.75" y="-14.5" />
+                  <point x="155.75000000000023" y="307.0" />
+                  <point x="448.65495003406863" y="307.0" />
+                  <point x="-36.666666666666515" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.mapper.DockMapper">
+                  <point x="22.176470588235134" y="-14.5" />
+                  <point x="1779.8720980013627" y="1424.0" />
+                  <point x="2040.8142559996977" y="1424.0" />
+                  <point x="2040.8142559996977" y="985.0" />
+                  <point x="2216.7103332954803" y="985.0" />
+                  <point x="29.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.SaleNoRepository">
+                  <point x="-52.88235294117635" y="-14.5" />
+                  <point x="1704.813274471951" y="1454.0" />
+                  <point x="893.2738095238099" y="1454.0" />
+                  <point x="52.875" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.ClientServiceInterface">
+                  <point x="-21.0" y="-14.5" />
+                  <point x="3718.3319096827913" y="1454.0" />
+                  <point x="3570.8734374290257" y="1454.0" />
+                  <point x="3570.8734374290257" y="1115.0" />
+                  <point x="3606.5234374290258" y="1115.0" />
+                  <point x="32.40000000000009" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.LoginServiceInterface">
+                  <point x="-35.72727272727275" y="-14.5" />
+                  <point x="3341.896164701753" y="1025.0" />
+                  <point x="3072.323437429026" y="1025.0" />
+                  <point x="32.200000000000045" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.api.AdminServiceInterface">
+                  <point x="11.523809523809632" y="-14.5" />
+                  <point x="727.3144999621472" y="1444.0" />
+                  <point x="759.3988095238099" y="1444.0" />
+                  <point x="759.3988095238099" y="1065.0" />
+                  <point x="2772.6091517147397" y="1065.0" />
+                  <point x="-66.79999999999995" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.model.Client">
+                  <point x="28.75" y="-14.5" />
+                  <point x="2498.755265160118" y="1504.0" />
+                  <point x="2569.40915171474" y="1504.0" />
+                  <point x="2569.40915171474" y="646.0" />
+                  <point x="1736.9534366719672" y="646.0" />
+                  <point x="36.208333333333485" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.api.AdminServiceInterface" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="41.75" y="-14.5" />
+                  <point x="2881.15915171474" y="586.0" />
+                  <point x="2600.0075333106224" y="586.0" />
+                  <point x="-13.60714285714289" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.CargoBaseDTO">
+                  <point x="29.0" y="-14.5" />
+                  <point x="1786.6956274131276" y="1444.0" />
+                  <point x="2122.295138352639" y="1444.0" />
+                  <point x="2122.295138352639" y="1005.0" />
+                  <point x="2414.6182542206066" y="1005.0" />
+                  <point x="2414.6182542206066" y="696.0" />
+                  <point x="2416.5968190249077" y="696.0" />
+                  <point x="-19.200000000000045" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.repositories.RentalRepository">
+                  <point x="28.809523809523853" y="-14.5" />
+                  <point x="744.6002142478615" y="1474.0" />
+                  <point x="948.0238095238099" y="1474.0" />
+                  <point x="-51.375" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.CargoRepository">
+                  <point x="-42.64705882352928" y="-14.5" />
+                  <point x="1715.0485685895983" y="1424.0" />
+                  <point x="1172.8988095238099" y="1424.0" />
+                  <point x="17.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.report.Report" target="ro.utcluj.model.Cargo">
+                  <point x="0.0" y="-14.5" />
+                  <point x="240.50000000000023" y="317.0" />
+                  <point x="455.32161670073515" y="317.0" />
+                  <point x="-30.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Dock">
+                  <point x="11.941176470588289" y="-14.5" />
+                  <point x="1769.6368038837159" y="1394.0" />
+                  <point x="1941.9322478991596" y="1394.0" />
+                  <point x="1941.9322478991596" y="945.0" />
+                  <point x="2073.0674761526234" y="945.0" />
+                  <point x="2073.0674761526234" y="218.0" />
+                  <point x="2018.9312794306907" y="218.0" />
+                  <point x="10.71428571428578" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.repositories.SaleNoRepository">
+                  <point x="23.047619047619264" y="-14.5" />
+                  <point x="738.8383094859569" y="1464.0" />
+                  <point x="822.7738095238099" y="1464.0" />
+                  <point x="-17.625" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.DockMapper" target="ro.utcluj.api.DockBaseDTO">
+                  <point x="14.5" y="-14.5" />
+                  <point x="2202.2103332954803" y="746.0" />
+                  <point x="2957.953961882051" y="746.0" />
+                  <point x="-51.25" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.CargoMapper" target="ro.utcluj.model.Client">
+                  <point x="-10.083333333333485" y="-14.5" />
+                  <point x="471.54761904761926" y="586.0" />
+                  <point x="1671.1201033386337" y="586.0" />
+                  <point x="-29.625" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="32.41176470588243" y="-14.5" />
+                  <point x="1790.10739211901" y="1454.0" />
+                  <point x="2191.4760207055806" y="1454.0" />
+                  <point x="2191.4760207055806" y="1015.0" />
+                  <point x="2418.030018926489" y="1015.0" />
+                  <point x="2418.030018926489" y="736.0" />
+                  <point x="2581.864676167765" y="736.0" />
+                  <point x="-31.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Cargo" target="ro.utcluj.model.Client">
+                  <point x="30.0" y="14.5" />
+                  <point x="515.3216167007351" y="317.0" />
+                  <point x="1677.7034366719672" y="317.0" />
+                  <point x="-23.041666666666515" y="-14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Sold" target="ro.utcluj.model.Client">
+                  <point x="-10.14285714285711" y="14.5" />
+                  <point x="1746.4772461957766" y="347.0" />
+                  <point x="1730.3701033386337" y="347.0" />
+                  <point x="29.625" y="-14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Sold" target="ro.utcluj.model.Dock">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1756.6201033386337" y="218.0" />
+                  <point x="1986.7884222878338" y="218.0" />
+                  <point x="-21.42857142857133" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.mapper.ClientMapper" target="ro.utcluj.model.Client">
+                  <point x="-15.0" y="-14.5" />
+                  <point x="1489.8988095238099" y="1015.0" />
+                  <point x="1393.3335903550608" y="1015.0" />
+                  <point x="1393.3335903550608" y="646.0" />
+                  <point x="1710.6201033386337" y="646.0" />
+                  <point x="9.875" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Client" target="ro.utcluj.model.Cargo">
+                  <point x="-36.208333333333485" y="-14.5" />
+                  <point x="1664.5367700053002" y="337.0" />
+                  <point x="501.98828336740166" y="337.0" />
+                  <point x="16.666666666666515" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.model.Salenumber">
+                  <point x="-51.85714285714266" y="-14.5" />
+                  <point x="663.933547581195" y="1514.0" />
+                  <point x="49.785971307441514" y="1514.0" />
+                  <point x="49.785971307441514" y="1165.0" />
+                  <point x="55.5" y="1165.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.api.LoginServiceInterface" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="0.0" y="-14.5" />
+                  <point x="3040.1234374290257" y="546.0" />
+                  <point x="2636.293247596336" y="546.0" />
+                  <point x="22.67857142857133" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.CargoBaseDTO">
+                  <point x="-28.0" y="-14.5" />
+                  <point x="3711.3319096827913" y="1464.0" />
+                  <point x="3471.6234374290257" y="1464.0" />
+                  <point x="3471.6234374290257" y="536.0" />
+                  <point x="2467.796819024908" y="536.0" />
+                  <point x="32.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.notification.NotificationService" target="ro.utcluj.notification.ClientSocketConnection">
+                  <point x="-29.599999999999966" y="-14.5" />
+                  <point x="3820.0234374290258" y="776.0" />
+                  <point x="3905.8997668256484" y="776.0" />
+                  <point x="-35.200000000000045" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.repositories.DockRepository" target="ro.utcluj.model.Dock">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1865.9322478991598" y="935.0" />
+                  <point x="2029.7103332954805" y="935.0" />
+                  <point x="2029.7103332954805" y="228.0" />
+                  <point x="2008.2169937164049" y="228.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.service.ContextGetter">
+                  <point x="56.29411764705901" y="-14.5" />
+                  <point x="1813.9897450601866" y="1524.0" />
+                  <point x="2324.317765160118" y="1524.0" />
+                  <point x="-15.125" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.api.ClientServiceInterface" target="ro.utcluj.api.RentalBaseDTO">
+                  <point x="60.75" y="-14.5" />
+                  <point x="3634.8734374290257" y="806.0" />
+                  <point x="3687.8734374290257" y="806.0" />
+                  <point x="10.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.controller.LoginController">
+                  <point x="43.214285714285666" y="-14.5" />
+                  <point x="3058.6515097660686" y="1514.0" />
+                  <point x="3344.8734374290257" y="1514.0" />
+                  <point x="-32.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.model.Client">
+                  <point x="-28.809523809523853" y="-14.5" />
+                  <point x="686.9811666288138" y="1474.0" />
+                  <point x="387.5000000000002" y="1474.0" />
+                  <point x="387.5000000000002" y="576.0" />
+                  <point x="1664.5367700053002" y="576.0" />
+                  <point x="-36.208333333333485" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.StringProcesorInterface">
+                  <point x="27.5" y="-14.5" />
+                  <point x="3042.9372240517832" y="1494.0" />
+                  <point x="3097.7305802861683" y="1494.0" />
+                  <point x="3097.7305802861683" y="1065.0" />
+                  <point x="3177.266294571883" y="1065.0" />
+                  <point x="-48.85714285714289" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Cargo">
+                  <point x="-15.352941176470495" y="-14.5" />
+                  <point x="1742.3426862366568" y="1344.0" />
+                  <point x="1589.1821470209707" y="1344.0" />
+                  <point x="1589.1821470209707" y="347.0" />
+                  <point x="495.32161670073515" y="347.0" />
+                  <point x="10.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.report.PDFReport" target="ro.utcluj.model.Cargo">
+                  <point x="26.0" y="-14.5" />
+                  <point x="329.0000000000002" y="327.0" />
+                  <point x="461.98828336740166" y="327.0" />
+                  <point x="-23.333333333333485" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.CustomUserDetailService" target="ro.utcluj.model.CustomUserDetails">
+                  <point x="-60.0" y="-14.5" />
+                  <point x="1274.8988095238099" y="985.0" />
+                  <point x="636.1309523809527" y="985.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="-5.761904761904589" y="-14.5" />
+                  <point x="710.028785676433" y="1414.0" />
+                  <point x="720.6309523809527" y="1414.0" />
+                  <point x="720.6309523809527" y="706.0" />
+                  <point x="2554.6503904534793" y="706.0" />
+                  <point x="-58.96428571428578" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.ClientServiceInterface">
+                  <point x="35.72727272727275" y="-14.5" />
+                  <point x="3413.350710156298" y="1105.0" />
+                  <point x="3574.1234374290257" y="1105.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.controller.LoginController">
+                  <point x="-42.0" y="-14.5" />
+                  <point x="3697.3319096827913" y="1484.0" />
+                  <point x="3410.3734374290257" y="1484.0" />
+                  <point x="32.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.RentalBaseDTO">
+                  <point x="39.235294117646845" y="-14.5" />
+                  <point x="1796.9309215307744" y="1474.0" />
+                  <point x="2258.207471042471" y="1474.0" />
+                  <point x="2258.207471042471" y="1035.0" />
+                  <point x="2471.2915046559165" y="1035.0" />
+                  <point x="2471.2915046559165" y="776.0" />
+                  <point x="3623.3734374290257" y="776.0" />
+                  <point x="-53.75" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.AdminServiceInterface">
+                  <point x="-35.35714285714289" y="-14.5" />
+                  <point x="2980.08008119464" y="1494.0" />
+                  <point x="2792.40915171474" y="1494.0" />
+                  <point x="2792.40915171474" y="1065.0" />
+                  <point x="2806.00915171474" y="1065.0" />
+                  <point x="-33.39999999999998" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Rental" target="ro.utcluj.model.Client">
+                  <point x="-16.875" y="14.5" />
+                  <point x="2019.029950034068" y="79.0" />
+                  <point x="1704.0367700053002" y="79.0" />
+                  <point x="3.291666666666515" y="-14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="-3.928571428571445" y="-14.5" />
+                  <point x="3011.5086526232117" y="1454.0" />
+                  <point x="2949.1234374290257" y="1454.0" />
+                  <point x="2949.1234374290257" y="556.0" />
+                  <point x="2627.2218190249077" y="556.0" />
+                  <point x="13.60714285714289" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Rental" target="ro.utcluj.model.Dock">
+                  <point x="16.875" y="14.5" />
+                  <point x="2052.779950034068" y="129.0" />
+                  <point x="2036.3419937164049" y="129.0" />
+                  <point x="28.125" y="-14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.repositories.CargoRepository">
+                  <point x="46.095238095238074" y="-14.5" />
+                  <point x="761.8859285335757" y="1504.0" />
+                  <point x="1138.8988095238099" y="1504.0" />
+                  <point x="-17.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.api.ClientBaseDTO">
+                  <point x="40.25" y="-14.5" />
+                  <point x="2510.255265160118" y="1514.0" />
+                  <point x="2712.40915171474" y="1514.0" />
+                  <point x="2712.40915171474" y="626.0" />
+                  <point x="2590.936104739194" y="626.0" />
+                  <point x="-22.67857142857133" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.CustomUserDetailService" target="ro.utcluj.repositories.ClientRepository">
+                  <point x="60.0" y="-14.5" />
+                  <point x="1394.8988095238099" y="1055.0" />
+                  <point x="1452.0478760693466" y="1055.0" />
+                  <point x="-19.28571428571422" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.report.ReportFactory" target="ro.utcluj.report.Report">
+                  <point x="0.0" y="-14.5" />
+                  <point x="251.41666666666697" y="1165.0" />
+                  <point x="240.50000000000023" y="1165.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.AdminServiceInterface">
+                  <point x="-59.545454545454504" y="-14.5" />
+                  <point x="3318.077982883571" y="1045.0" />
+                  <point x="2872.80915171474" y="1045.0" />
+                  <point x="33.39999999999998" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.repositories.RentalRepository" target="ro.utcluj.model.Rental">
+                  <point x="0.0" y="-14.5" />
+                  <point x="999.3988095238099" y="1015.0" />
+                  <point x="376.5000000000002" y="1015.0" />
+                  <point x="376.5000000000002" y="49.0" />
+                  <point x="1998.779950034068" y="49.0" />
+                  <point x="-37.125" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.model.Client" target="ro.utcluj.model.Sold">
+                  <point x="23.041666666666515" y="-14.5" />
+                  <point x="1723.7867700053002" y="337.0" />
+                  <point x="1736.3343890529195" y="337.0" />
+                  <point x="-20.28571428571422" y="14.5" />
+                </edge>
+                <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.mapper.CargoMapper">
+                  <point x="-11.523809523809632" y="-14.5" />
+                  <point x="704.266880914528" y="1444.0" />
+                  <point x="454.42287606934656" y="1444.0" />
+                  <point x="454.42287606934656" y="1165.0" />
+                  <point x="466.50595238095275" y="1165.0" />
+                  <point x="-15.125" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.32641975308641974" x="2015.0" y="823.5" />
+              <SelectedNodes>
+                <node>ro.utcluj.api.RentalBaseDTO</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>public</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/config/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/VIPClient.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Dock.java" />
+        <option value="$PROJECT_DIR$/client/src/main/resources/adminPage.fxml" />
+        <option value="$PROJECT_DIR$/client/src/main/resources/clientPage.fxml" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Sold.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/repositories/SoldRepository.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/ro/utcluj/notification/NotificationService.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/CargoBaseDTO.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/ro/utcluj/notification/ServerSocketListener.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/ro/utcluj/config/ClientConfig.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/notification/NotificationService.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/ClientBaseDTO.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/mapper/CargoMapper.java" />
+        <option value="$PROJECT_DIR$/server/pom.xml" />
+        <option value="$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/RentalBaseDTO.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/repositories/SaleNoRepository.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/StringProcesorInterface.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/PDFGenerator.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/report/ReportFactory.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/report/Report.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/repositories/ClientRepository.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Client.java" />
+        <option value="$PROJECT_DIR$/client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/client/pom.xml" />
+        <option value="$PROJECT_DIR$/client/src/main/java/ro/utcluj/config/ClientConfiguration.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/ro/utcluj/ClientApp.java" />
+        <option value="$PROJECT_DIR$/client/src/test/java/ro/utcluj/LoginControllerTest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/Server.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/SaleNumber.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Rental.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/CustomUserDetails.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/CustomUserDetailService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/notification/ClientSocketConnection.java" />
+        <option value="$PROJECT_DIR$/client/src/test/java/ro/utcluj/ClientPageController.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/ClientServiceInterface.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/AdminServiceInterface.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/report/TxtReport.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/report/PDFReport.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/ClientPage.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/AdminPage.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/server/src/test/java/ro/utcluj/AdminServiceInterface.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/LoginServiceInterface.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/ContextGetter.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/LoginService.java" />
+        <option value="$PROJECT_DIR$/server/src/test/java/ro/utcluj/LoginServiceTest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/ClientService.java" />
+        <option value="$PROJECT_DIR$/server/src/test/java/ro/utcluj/AdminServiceTest.java" />
+        <option value="$PROJECT_DIR$/server/src/test/java/ro/utcluj/ClientServiceTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="356" />
+    <option name="y" value="-20" />
+    <option name="width" value="556" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utcluj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sql-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558431210199" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proiectSeaport" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ClientServiceTest.showHistoryTest">
+    <configuration name="ClientServiceTest.activeRentalsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.utcluj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.utcluj" />
+      <option name="MAIN_CLASS_NAME" value="ro.utcluj.ClientServiceTest" />
+      <option name="METHOD_NAME" value="activeRentalsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceTest.buyDockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.utcluj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.utcluj" />
+      <option name="MAIN_CLASS_NAME" value="ro.utcluj.ClientServiceTest" />
+      <option name="METHOD_NAME" value="buyDockTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceTest.changeRetalPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.utcluj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.utcluj" />
+      <option name="MAIN_CLASS_NAME" value="ro.utcluj.ClientServiceTest" />
+      <option name="METHOD_NAME" value="changeRetalPriceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceTest.findAvDocksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.utcluj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.utcluj" />
+      <option name="MAIN_CLASS_NAME" value="ro.utcluj.ClientServiceTest" />
+      <option name="METHOD_NAME" value="findAvDocksTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceTest.showHistoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.utcluj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.utcluj" />
+      <option name="MAIN_CLASS_NAME" value="ro.utcluj.ClientServiceTest" />
+      <option name="METHOD_NAME" value="showHistoryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ClientServiceTest.buyDockTest" />
+      <item itemvalue="JUnit.ClientServiceTest.findAvDocksTest" />
+      <item itemvalue="JUnit.ClientServiceTest.changeRetalPriceTest" />
+      <item itemvalue="JUnit.ClientServiceTest.activeRentalsTest" />
+      <item itemvalue="JUnit.ClientServiceTest.showHistoryTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClientServiceTest.showHistoryTest" />
+        <item itemvalue="JUnit.ClientServiceTest.activeRentalsTest" />
+        <item itemvalue="JUnit.ClientServiceTest.changeRetalPriceTest" />
+        <item itemvalue="JUnit.ClientServiceTest.findAvDocksTest" />
+        <item itemvalue="JUnit.ClientServiceTest.buyDockTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="220e1856-0f33-44b6-9d1e-3e0cc845a8a2" name="Default Changelist" comment="" />
+      <created>1556299529118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556299529118</updated>
+      <workItem from="1556299531877" duration="4920000" />
+      <workItem from="1556306519899" duration="842000" />
+      <workItem from="1556710871873" duration="60328000" />
+      <workItem from="1557303123898" duration="3335000" />
+      <workItem from="1557736957699" duration="4506000" />
+      <workItem from="1557753755552" duration="1671000" />
+      <workItem from="1557760107679" duration="6210000" />
+      <workItem from="1557807789295" duration="25029000" />
+      <workItem from="1557898433504" duration="38605000" />
+      <workItem from="1558016195656" duration="615000" />
+      <workItem from="1558086159068" duration="7437000" />
+      <workItem from="1558101868835" duration="2276000" />
+      <workItem from="1558186400199" duration="27573000" />
+      <workItem from="1558374961563" duration="6166000" />
+      <workItem from="1558422696006" duration="4120000" />
+      <workItem from="1558426855563" duration="1591000" />
+      <workItem from="1558428615571" duration="1547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ClientServiceTest_findCargosTest - 2019.05.21 at 11h 03m 59s.xml">
+      <configuration name="ClientServiceTest.findCargosTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_buyDockTest - 2019.05.21 at 11h 04m 25s.xml">
+      <configuration name="ClientServiceTest.buyDockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_buyDockTest - 2019.05.21 at 11h 04m 56s.xml">
+      <configuration name="ClientServiceTest.buyDockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_buyDockTest - 2019.05.21 at 11h 06m 45s.xml">
+      <configuration name="ClientServiceTest.buyDockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_buyDockTest - 2019.05.21 at 11h 07m 27s.xml">
+      <configuration name="ClientServiceTest.buyDockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_findAvDocksTest - 2019.05.21 at 11h 11m 04s.xml">
+      <configuration name="ClientServiceTest.findAvDocksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_changeRetalPriceTest - 2019.05.21 at 11h 12m 52s.xml">
+      <configuration name="ClientServiceTest.changeRetalPriceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_activeRentalsTest - 2019.05.21 at 11h 15m 50s.xml">
+      <configuration name="ClientServiceTest.activeRentalsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_activeRentalsTest - 2019.05.21 at 11h 17m 46s.xml">
+      <configuration name="ClientServiceTest.activeRentalsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientServiceTest_showHistoryTest - 2019.05.21 at 11h 18m 45s.xml">
+      <configuration name="ClientServiceTest.showHistoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196771000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4965035" weight="0.2881997" />
+      <window_info id="Structure" order="1" sideWeight="0.50268817" side_tool="true" weight="0.1376702" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5034965" side_tool="true" weight="0.24962178" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.3442623" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49848714" weight="0.23442623" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.49016392" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.5606557" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4965035" visible="true" weight="0.08698941" />
+      <window_info id="Structure" order="1" sideWeight="0.50268817" side_tool="true" weight="0.1376702" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5034965" side_tool="true" weight="0.24962178" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.16065574" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49924356" visible="true" weight="0.45081967" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.49016392" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/LoginController.java</url>
+          <line>163</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/LoginController.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/LoginController.java</url>
+          <line>174</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/notification/ClientSocketConnection.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/notification/ClientSocketConnection.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/notification/ClientSocketConnection.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Client.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Client.java</url>
+          <line>179</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/ClientApp.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/config/ClientConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/client/src/test/java/ro/utcluj/LoginControllerTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Dock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/repositories/SaleNoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Salenumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/repositories/ClientRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/repositories/RentalRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Sold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/notification/NotificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/ClientApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="75" column="56" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/resources/clientPage.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="141" column="32" lean-forward="true" selection-start-line="141" selection-start-column="32" selection-end-line="141" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/notification/NotificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/notification/ClientSocketConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/CustomUserDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/test/java/ro/utcluj/ClientPageController.java" />
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/ClientServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/AdminServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/resources/adminPage.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="120" column="49" lean-forward="true" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/report/Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/report/PDFReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/report/TxtReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="9" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/report/ReportFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/ClientPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="308" lean-forward="true" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/2019-30236-DorneaRebeca/asignment3/client/src/test/java/ro/utcluj/LoginControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/ro/utcluj/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/model/CustomUserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="21" column="87" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="142" selection-start-line="141" selection-end-line="142" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/ro/utcluj/api/LoginServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/ro/utcluj/controller/AdminPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="293" selection-start-line="293" selection-end-line="293" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/ContextGetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/2019-30236-DorneaRebeca/asignment3/client/src/test/java/ro/utcluj/ClientPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/ro/utcluj/AdminServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2178">
+          <caret line="173" column="37" selection-start-line="173" selection-start-column="37" selection-end-line="173" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/StringProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/ro/utcluj/ClientServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="242" column="36" selection-start-line="242" selection-start-column="36" selection-end-line="242" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/ro/utcluj/LoginServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="62" column="12" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ro/utcluj/service/ClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3384">
+          <caret line="268" column="27" selection-start-line="268" selection-start-column="27" selection-end-line="268" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proiectSeaport/diagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="445.32161670073515" y="248.0">ro.utcluj.model.Cargo</node>
+            <node x="3686.8319096827913" y="1544.0">ro.utcluj.controller.ClientPage</node>
+            <node x="1087.8988095238099" y="1185.0">ro.utcluj.repositories.CargoRepository</node>
+            <node x="2579.90915171474" y="826.0">ro.utcluj.mapper.RentalMapper</node>
+            <node x="2550.114676167765" y="377.0">ro.utcluj.api.ClientBaseDTO</node>
+            <node x="3853.0997668256487" y="377.0">ro.utcluj.notification.ClientSocketConnection</node>
+            <node x="3612.6234374290257" y="377.0">ro.utcluj.api.RentalBaseDTO</node>
+            <node x="2371.796819024908" y="377.0">ro.utcluj.api.CargoBaseDTO</node>
+            <node x="190.41666666666697" y="1185.0">ro.utcluj.report.ReportFactory</node>
+            <node x="2755.90915171474" y="826.0">ro.utcluj.api.AdminServiceInterface</node>
+            <node x="1238.3335903550608" y="1544.0">ro.utcluj.config.SecurityConfig</node>
+            <node x="251.00000000000023" y="826.0">ro.utcluj.report.PDFReport</node>
+            <node x="3775.6234374290257" y="826.0">ro.utcluj.notification.NotificationService</node>
+            <node x="1403.8335903550608" y="826.0">ro.utcluj.repositories.ClientRepository</node>
+            <node x="769.8988095238099" y="1185.0">ro.utcluj.repositories.SaleNoRepository</node>
+            <node x="0.0" y="826.0">ro.utcluj.model.Salenumber</node>
+            <node x="0.0" y="1618.0">ro.utcluj.notification.ServerSocketListener</node>
+            <node x="421.13095238095275" y="826.0">ro.utcluj.mapper.CargoMapper</node>
+            <node x="1800.4322478991598" y="1185.0">ro.utcluj.repositories.DockRepository</node>
+            <node x="1721.1201033386337" y="248.0">ro.utcluj.model.Sold</node>
+            <node x="930.8988095238099" y="1185.0">ro.utcluj.repositories.RentalRepository</node>
+            <node x="2129.7103332954803" y="826.0">ro.utcluj.mapper.DockMapper</node>
+            <node x="3161.1234374290257" y="1185.0">ro.utcluj.service.StringProcessor</node>
+            <node x="199.00000000000023" y="377.0">ro.utcluj.report.Report</node>
+            <node x="2412.505265160118" y="1544.0">ro.utcluj.service.LoginService</node>
+            <node x="562.1309523809527" y="826.0">ro.utcluj.model.CustomUserDetails</node>
+            <node x="2959.6234374290257" y="826.0">ro.utcluj.api.LoginServiceInterface</node>
+            <node x="131.00000000000023" y="826.0">ro.utcluj.report.TxtReport</node>
+            <node x="3312.1234374290257" y="1185.0">ro.utcluj.controller.LoginController</node>
+            <node x="1699.6956274131276" y="1544.0">ro.utcluj.service.ClientService</node>
+            <node x="1444.8988095238099" y="1185.0">ro.utcluj.mapper.ClientMapper</node>
+            <node x="2960.4372240517832" y="1544.0">ro.utcluj.controller.AdminPage</node>
+            <node x="1661.2451033386337" y="377.0">ro.utcluj.model.Client</node>
+            <node x="2278.942765160118" y="1185.0">ro.utcluj.service.ContextGetter</node>
+            <node x="3493.1234374290257" y="826.0">ro.utcluj.api.ClientServiceInterface</node>
+            <node x="1995.404950034068" y="0.0">ro.utcluj.model.Rental</node>
+            <node x="1244.8988095238099" y="1185.0">ro.utcluj.service.CustomUserDetailService</node>
+            <node x="1652.4322478991598" y="1185.0">ro.utcluj.repositories.SoldRepository</node>
+            <node x="655.2906904383376" y="1544.0">ro.utcluj.service.AdminService</node>
+            <node x="3140.6234374290257" y="826.0">ro.utcluj.api.StringProcesorInterface</node>
+            <node x="2947.703961882051" y="377.0">ro.utcluj.api.DockBaseDTO</node>
+            <node x="1970.7169937164049" y="149.0">ro.utcluj.model.Dock</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ro.utcluj.report.ReportFactory" target="ro.utcluj.report.PDFReport">
+              <point x="40.666666666666515" y="-14.5" />
+              <point x="292.0833333333335" y="1165.0" />
+              <point x="303.0000000000002" y="1165.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.ClientServiceInterface">
+              <point x="49.470588235294144" y="-14.5" />
+              <point x="1807.1662156484217" y="1504.0" />
+              <point x="2268.442765160118" y="1504.0" />
+              <point x="2268.442765160118" y="1085.0" />
+              <point x="3509.323437429026" y="1085.0" />
+              <point x="-64.79999999999995" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.repositories.SoldRepository" target="ro.utcluj.model.Sold">
+              <point x="0.0" y="-14.5" />
+              <point x="1715.9322478991598" y="915.0" />
+              <point x="1941.8531904383376" y="915.0" />
+              <point x="1941.8531904383376" y="347.0" />
+              <point x="1776.905817624348" y="347.0" />
+              <point x="20.28571428571422" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.mapper.ClientMapper">
+              <point x="-29.0" y="-14.5" />
+              <point x="1728.6956274131276" y="1384.0" />
+              <point x="1514.8988095238099" y="1384.0" />
+              <point x="10.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.api.ClientServiceInterface" target="ro.utcluj.api.CargoBaseDTO">
+              <point x="-60.75" y="-14.5" />
+              <point x="3513.3734374290257" y="516.0" />
+              <point x="2480.5968190249077" y="516.0" />
+              <point x="44.799999999999955" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.RentalMapper" target="ro.utcluj.model.Rental">
+              <point x="-40.66666666666674" y="-14.5" />
+              <point x="2600.242485048073" y="636.0" />
+              <point x="2333.7634856915747" y="636.0" />
+              <point x="2333.7634856915747" y="109.0" />
+              <point x="2073.029950034068" y="109.0" />
+              <point x="37.125" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.DockBaseDTO">
+              <point x="21.0" y="-14.5" />
+              <point x="3760.3319096827913" y="1394.0" />
+              <point x="3747.9747668256487" y="1394.0" />
+              <point x="3747.9747668256487" y="446.0" />
+              <point x="3060.453961882051" y="446.0" />
+              <point x="51.25" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.StringProcessor" target="ro.utcluj.api.StringProcesorInterface">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Client">
+              <point x="-11.941176470588289" y="-14.5" />
+              <point x="1745.7544509425393" y="1334.0" />
+              <point x="1638.5204831932774" y="1334.0" />
+              <point x="1638.5204831932774" y="666.0" />
+              <point x="1723.7867700053002" y="666.0" />
+              <point x="23.041666666666515" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="11.909090909090992" y="-14.5" />
+              <point x="3389.5325283381167" y="1075.0" />
+              <point x="3482.6234374290257" y="1075.0" />
+              <point x="3482.6234374290257" y="526.0" />
+              <point x="2645.364676167765" y="526.0" />
+              <point x="31.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.service.ContextGetter">
+              <point x="-17.25" y="-14.5" />
+              <point x="2452.755265160118" y="1264.0" />
+              <point x="2384.817765160118" y="1264.0" />
+              <point x="45.375" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.config.SecurityConfig" target="ro.utcluj.service.CustomUserDetailService">
+              <point x="0.0" y="-14.5" />
+              <point x="1301.3335903550608" y="1504.0" />
+              <point x="1334.8988095238099" y="1504.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Sold">
+              <point x="-8.529411764705856" y="-14.5" />
+              <point x="1749.1662156484217" y="1324.0" />
+              <point x="1641.9322478991598" y="1324.0" />
+              <point x="1641.9322478991598" y="905.0" />
+              <point x="1919.5639747520631" y="905.0" />
+              <point x="1919.5639747520631" y="357.0" />
+              <point x="1766.7629604814908" y="357.0" />
+              <point x="10.14285714285711" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.model.Cargo">
+              <point x="-34.57142857142844" y="-14.5" />
+              <point x="681.2192618669092" y="1484.0" />
+              <point x="365.5000000000002" y="1484.0" />
+              <point x="365.5000000000002" y="337.0" />
+              <point x="468.65495003406863" y="337.0" />
+              <point x="-16.666666666666515" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.report.ReportFactory">
+              <point x="-46.095238095238074" y="-14.5" />
+              <point x="669.6954523430995" y="1504.0" />
+              <point x="220.91666666666697" y="1504.0" />
+              <point x="-30.5" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.CargoMapper" target="ro.utcluj.model.Cargo">
+              <point x="-50.416666666666515" y="-14.5" />
+              <point x="431.21428571428623" y="556.0" />
+              <point x="479.82161670073515" y="556.0" />
+              <point x="479.82161670073515" y="357.0" />
+              <point x="481.98828336740166" y="357.0" />
+              <point x="-3.333333333333485" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Client" target="ro.utcluj.model.Rental">
+              <point x="-3.291666666666515" y="-14.5" />
+              <point x="1697.4534366719672" y="69.0" />
+              <point x="2012.279950034068" y="69.0" />
+              <point x="-23.625" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.StringProcesorInterface">
+              <point x="-49.0" y="-14.5" />
+              <point x="3690.3319096827913" y="1494.0" />
+              <point x="3108.7305802861683" y="1494.0" />
+              <point x="3108.7305802861683" y="1075.0" />
+              <point x="3201.694866000454" y="1075.0" />
+              <point x="-24.42857142857156" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.repositories.CargoRepository" target="ro.utcluj.model.Cargo">
+              <point x="0.0" y="-14.5" />
+              <point x="1155.8988095238099" y="1005.0" />
+              <point x="410.63095238095275" y="1005.0" />
+              <point x="410.63095238095275" y="347.0" />
+              <point x="475.32161670073515" y="347.0" />
+              <point x="-10.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.StringProcesorInterface">
+              <point x="-11.909090909090878" y="-14.5" />
+              <point x="3365.7143465199347" y="1005.0" />
+              <point x="3250.5520088575972" y="1005.0" />
+              <point x="24.428571428571445" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.repositories.ClientRepository">
+              <point x="5.761904761904589" y="-14.5" />
+              <point x="721.5525952002422" y="1434.0" />
+              <point x="753.6369047619048" y="1434.0" />
+              <point x="753.6369047619048" y="1045.0" />
+              <point x="1432.7621617836323" y="1045.0" />
+              <point x="-38.57142857142844" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.CargoMapper" target="ro.utcluj.api.CargoBaseDTO">
+              <point x="50.416666666666515" y="-14.5" />
+              <point x="532.0476190476193" y="696.0" />
+              <point x="2403.796819024908" y="696.0" />
+              <point x="-32.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.repositories.ClientRepository">
+              <point x="-5.75" y="-14.5" />
+              <point x="2464.255265160118" y="1254.0" />
+              <point x="2410.442765160118" y="1254.0" />
+              <point x="2410.442765160118" y="895.0" />
+              <point x="1509.9050189264892" y="895.0" />
+              <point x="38.57142857142844" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.DockRepository">
+              <point x="5.117647058823422" y="-14.5" />
+              <point x="1762.813274471951" y="1374.0" />
+              <point x="1833.1822478991598" y="1374.0" />
+              <point x="-32.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.mapper.CargoMapper">
+              <point x="-35.82352941176464" y="-14.5" />
+              <point x="1721.8720980013627" y="1404.0" />
+              <point x="1234.3988095238099" y="1404.0" />
+              <point x="1234.3988095238099" y="995.0" />
+              <point x="496.75595238095275" y="995.0" />
+              <point x="15.125" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.notification.ClientSocketConnection" target="ro.utcluj.notification.NotificationService">
+              <point x="70.39999999999986" y="14.5" />
+              <point x="4011.4997668256483" y="806.0" />
+              <point x="3908.823437429026" y="806.0" />
+              <point x="59.200000000000045" y="-14.5" />
+            </edge>
+            <edge source="ro.utcluj.api.AdminServiceInterface" target="ro.utcluj.api.CargoBaseDTO">
+              <point x="-41.75" y="-14.5" />
+              <point x="2797.65915171474" y="596.0" />
+              <point x="2454.9968190249083" y="596.0" />
+              <point x="19.200000000000045" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="7.0" y="-14.5" />
+              <point x="3746.3319096827913" y="1414.0" />
+              <point x="3685.3734374290257" y="1414.0" />
+              <point x="3685.3734374290257" y="466.0" />
+              <point x="2672.578961882051" y="466.0" />
+              <point x="58.96428571428578" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Rental">
+              <point x="15.352941176470722" y="-14.5" />
+              <point x="1773.0485685895983" y="1404.0" />
+              <point x="1974.6465336134452" y="1404.0" />
+              <point x="1974.6465336134452" y="955.0" />
+              <point x="2108.2103332954803" y="955.0" />
+              <point x="2108.2103332954803" y="129.0" />
+              <point x="2059.529950034068" y="129.0" />
+              <point x="23.625" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.api.LoginServiceInterface">
+              <point x="51.75" y="-14.5" />
+              <point x="2521.755265160118" y="1524.0" />
+              <point x="2734.40915171474" y="1524.0" />
+              <point x="2734.40915171474" y="1075.0" />
+              <point x="2975.7234374290256" y="1075.0" />
+              <point x="-64.40000000000009" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.ClientMapper" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="45.0" y="-14.5" />
+              <point x="1549.8988095238099" y="965.0" />
+              <point x="2119.2103332954803" y="965.0" />
+              <point x="2119.2103332954803" y="726.0" />
+              <point x="2572.793247596336" y="726.0" />
+              <point x="-40.82142857142867" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.api.ClientServiceInterface" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="-20.25" y="-14.5" />
+              <point x="3553.8734374290257" y="506.0" />
+              <point x="2654.436104739194" y="506.0" />
+              <point x="40.82142857142867" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.SoldRepository">
+              <point x="-1.7058823529409892" y="-14.5" />
+              <point x="1755.9897450601866" y="1304.0" />
+              <point x="1747.6822478991598" y="1304.0" />
+              <point x="31.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.DockMapper" target="ro.utcluj.model.Dock">
+              <point x="-43.5" y="-14.5" />
+              <point x="2144.2103332954803" y="666.0" />
+              <point x="2083.7817618669087" y="666.0" />
+              <point x="2083.7817618669087" y="208.0" />
+              <point x="2029.6455651449764" y="208.0" />
+              <point x="21.42857142857133" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.report.ReportFactory" target="ro.utcluj.report.TxtReport">
+              <point x="-40.666666666666515" y="-14.5" />
+              <point x="210.75000000000045" y="1165.0" />
+              <point x="180.50000000000023" y="1165.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.CustomUserDetailService" target="ro.utcluj.model.Client">
+              <point x="0.0" y="-14.5" />
+              <point x="1334.8988095238099" y="1025.0" />
+              <point x="1301.3335903550608" y="1025.0" />
+              <point x="1301.3335903550608" y="626.0" />
+              <point x="1697.4534366719672" y="626.0" />
+              <point x="-3.291666666666515" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.report.PDFReport" target="ro.utcluj.report.Report">
+              <point x="-26.0" y="-14.5" />
+              <point x="277.0000000000002" y="806.0" />
+              <point x="268.16666666666674" y="806.0" />
+              <point x="27.666666666666515" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.CargoBaseDTO">
+              <point x="-51.071428571428555" y="-14.5" />
+              <point x="2964.3657954803543" y="1514.0" />
+              <point x="2723.40915171474" y="1514.0" />
+              <point x="2723.40915171474" y="616.0" />
+              <point x="2429.396819024908" y="616.0" />
+              <point x="-6.400000000000091" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Dock" target="ro.utcluj.model.Sold">
+              <point x="-10.71428571428578" y="14.5" />
+              <point x="1997.502708002119" y="228.0" />
+              <point x="1780.2867700053005" y="228.0" />
+              <point x="23.666666666666742" y="-14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.RentalMapper" target="ro.utcluj.api.RentalBaseDTO">
+              <point x="40.66666666666674" y="-14.5" />
+              <point x="2681.575818381407" y="796.0" />
+              <point x="3666.3734374290257" y="796.0" />
+              <point x="-10.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.ClientRepository">
+              <point x="-22.17647058823536" y="-14.5" />
+              <point x="1735.519156824892" y="1364.0" />
+              <point x="1578.810574229692" y="1364.0" />
+              <point x="1578.810574229692" y="935.0" />
+              <point x="1471.3335903550608" y="935.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.repositories.ClientRepository" target="ro.utcluj.model.Client">
+              <point x="0.0" y="-14.5" />
+              <point x="1471.3335903550608" y="656.0" />
+              <point x="1717.2034366719672" y="656.0" />
+              <point x="16.458333333333485" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.CustomUserDetails" target="ro.utcluj.model.Client">
+              <point x="-37.0" y="-14.5" />
+              <point x="599.1309523809527" y="606.0" />
+              <point x="1684.2867700053002" y="606.0" />
+              <point x="-16.458333333333485" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.mapper.RentalMapper">
+              <point x="42.64705882352928" y="-14.5" />
+              <point x="1800.3426862366568" y="1484.0" />
+              <point x="2261.6192357483533" y="1484.0" />
+              <point x="2261.6192357483533" y="1045.0" />
+              <point x="2610.40915171474" y="1045.0" />
+              <point x="-30.5" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.repositories.SaleNoRepository" target="ro.utcluj.model.Salenumber">
+              <point x="0.0" y="-14.5" />
+              <point x="840.3988095238099" y="1025.0" />
+              <point x="92.5" y="1025.0" />
+              <point x="37.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.api.CargoBaseDTO">
+              <point x="-23.04761904761881" y="-14.5" />
+              <point x="692.7430713907188" y="1464.0" />
+              <point x="393.26190476190527" y="1464.0" />
+              <point x="393.26190476190527" y="676.0" />
+              <point x="2378.196819024908" y="676.0" />
+              <point x="-57.59999999999991" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.notification.NotificationService">
+              <point x="42.0" y="-14.5" />
+              <point x="3781.3319096827913" y="1514.0" />
+              <point x="3909.0581001589817" y="1514.0" />
+              <point x="3909.0581001589817" y="1165.0" />
+              <point x="3911.290104095692" y="1165.0" />
+              <point x="61.66666666666674" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.DockBaseDTO">
+              <point x="35.823529411764866" y="-14.5" />
+              <point x="1793.5191568248924" y="1464.0" />
+              <point x="2254.795706336589" y="1464.0" />
+              <point x="2254.795706336589" y="1025.0" />
+              <point x="2467.8797399500345" y="1025.0" />
+              <point x="2467.8797399500345" y="766.0" />
+              <point x="2998.953961882051" y="766.0" />
+              <point x="-10.25" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Dock" target="ro.utcluj.model.Rental">
+              <point x="-9.375" y="-14.5" />
+              <point x="1998.8419937164049" y="109.0" />
+              <point x="2039.279950034068" y="109.0" />
+              <point x="3.375" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.mapper.ClientMapper">
+              <point x="-51.75" y="-14.5" />
+              <point x="2418.255265160118" y="1294.0" />
+              <point x="1534.8988095238099" y="1294.0" />
+              <point x="30.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.api.ClientServiceInterface" target="ro.utcluj.api.DockBaseDTO">
+              <point x="20.25" y="-14.5" />
+              <point x="3594.3734374290257" y="496.0" />
+              <point x="3019.453961882051" y="496.0" />
+              <point x="10.25" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.mapper.ClientMapper">
+              <point x="51.85714285714266" y="-14.5" />
+              <point x="767.6478332954803" y="1514.0" />
+              <point x="1454.8988095238099" y="1514.0" />
+              <point x="-50.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.notification.NotificationService">
+              <point x="35.35714285714289" y="-14.5" />
+              <point x="3050.794366908926" y="1504.0" />
+              <point x="3301.6234374290257" y="1504.0" />
+              <point x="3301.6234374290257" y="1135.0" />
+              <point x="3787.956770762359" y="1135.0" />
+              <point x="-61.66666666666674" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.RentalBaseDTO">
+              <point x="49.0" y="-14.5" />
+              <point x="3788.3319096827913" y="1524.0" />
+              <point x="3934.1234374290257" y="1524.0" />
+              <point x="3934.1234374290257" y="426.0" />
+              <point x="3730.8734374290257" y="426.0" />
+              <point x="53.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.notification.NotificationService">
+              <point x="47.636363636363626" y="-14.5" />
+              <point x="3425.259801065389" y="1145.0" />
+              <point x="3812.6234374290257" y="1145.0" />
+              <point x="-37.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.report.TxtReport" target="ro.utcluj.report.Report">
+              <point x="24.75" y="-14.5" />
+              <point x="205.25000000000023" y="806.0" />
+              <point x="212.8333333333337" y="806.0" />
+              <point x="-27.666666666666515" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.LoginServiceInterface">
+              <point x="11.785714285714334" y="-14.5" />
+              <point x="3027.2229383374975" y="1474.0" />
+              <point x="3040.1234374290257" y="1474.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.RentalRepository">
+              <point x="-49.470588235294144" y="-14.5" />
+              <point x="1708.2250391778334" y="1444.0" />
+              <point x="1016.5238095238099" y="1444.0" />
+              <point x="17.125" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.report.TxtReport" target="ro.utcluj.model.Cargo">
+              <point x="-24.75" y="-14.5" />
+              <point x="155.75000000000023" y="307.0" />
+              <point x="448.65495003406863" y="307.0" />
+              <point x="-36.666666666666515" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.mapper.DockMapper">
+              <point x="22.176470588235134" y="-14.5" />
+              <point x="1779.8720980013627" y="1424.0" />
+              <point x="2040.8142559996977" y="1424.0" />
+              <point x="2040.8142559996977" y="985.0" />
+              <point x="2216.7103332954803" y="985.0" />
+              <point x="29.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.SaleNoRepository">
+              <point x="-52.88235294117635" y="-14.5" />
+              <point x="1704.813274471951" y="1454.0" />
+              <point x="893.2738095238099" y="1454.0" />
+              <point x="52.875" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.ClientServiceInterface">
+              <point x="-21.0" y="-14.5" />
+              <point x="3718.3319096827913" y="1454.0" />
+              <point x="3570.8734374290257" y="1454.0" />
+              <point x="3570.8734374290257" y="1115.0" />
+              <point x="3606.5234374290258" y="1115.0" />
+              <point x="32.40000000000009" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.LoginServiceInterface">
+              <point x="-35.72727272727275" y="-14.5" />
+              <point x="3341.896164701753" y="1025.0" />
+              <point x="3072.323437429026" y="1025.0" />
+              <point x="32.200000000000045" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.api.AdminServiceInterface">
+              <point x="11.523809523809632" y="-14.5" />
+              <point x="727.3144999621472" y="1444.0" />
+              <point x="759.3988095238099" y="1444.0" />
+              <point x="759.3988095238099" y="1065.0" />
+              <point x="2772.6091517147397" y="1065.0" />
+              <point x="-66.79999999999995" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.model.Client">
+              <point x="28.75" y="-14.5" />
+              <point x="2498.755265160118" y="1504.0" />
+              <point x="2569.40915171474" y="1504.0" />
+              <point x="2569.40915171474" y="646.0" />
+              <point x="1736.9534366719672" y="646.0" />
+              <point x="36.208333333333485" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.api.AdminServiceInterface" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="41.75" y="-14.5" />
+              <point x="2881.15915171474" y="586.0" />
+              <point x="2600.0075333106224" y="586.0" />
+              <point x="-13.60714285714289" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.CargoBaseDTO">
+              <point x="29.0" y="-14.5" />
+              <point x="1786.6956274131276" y="1444.0" />
+              <point x="2122.295138352639" y="1444.0" />
+              <point x="2122.295138352639" y="1005.0" />
+              <point x="2414.6182542206066" y="1005.0" />
+              <point x="2414.6182542206066" y="696.0" />
+              <point x="2416.5968190249077" y="696.0" />
+              <point x="-19.200000000000045" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.repositories.RentalRepository">
+              <point x="28.809523809523853" y="-14.5" />
+              <point x="744.6002142478615" y="1474.0" />
+              <point x="948.0238095238099" y="1474.0" />
+              <point x="-51.375" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.repositories.CargoRepository">
+              <point x="-42.64705882352928" y="-14.5" />
+              <point x="1715.0485685895983" y="1424.0" />
+              <point x="1172.8988095238099" y="1424.0" />
+              <point x="17.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.report.Report" target="ro.utcluj.model.Cargo">
+              <point x="0.0" y="-14.5" />
+              <point x="240.50000000000023" y="317.0" />
+              <point x="455.32161670073515" y="317.0" />
+              <point x="-30.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Dock">
+              <point x="11.941176470588289" y="-14.5" />
+              <point x="1769.6368038837159" y="1394.0" />
+              <point x="1941.9322478991596" y="1394.0" />
+              <point x="1941.9322478991596" y="945.0" />
+              <point x="2073.0674761526234" y="945.0" />
+              <point x="2073.0674761526234" y="218.0" />
+              <point x="2018.9312794306907" y="218.0" />
+              <point x="10.71428571428578" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.repositories.SaleNoRepository">
+              <point x="23.047619047619264" y="-14.5" />
+              <point x="738.8383094859569" y="1464.0" />
+              <point x="822.7738095238099" y="1464.0" />
+              <point x="-17.625" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.DockMapper" target="ro.utcluj.api.DockBaseDTO">
+              <point x="14.5" y="-14.5" />
+              <point x="2202.2103332954803" y="746.0" />
+              <point x="2957.953961882051" y="746.0" />
+              <point x="-51.25" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.CargoMapper" target="ro.utcluj.model.Client">
+              <point x="-10.083333333333485" y="-14.5" />
+              <point x="471.54761904761926" y="586.0" />
+              <point x="1671.1201033386337" y="586.0" />
+              <point x="-29.625" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="32.41176470588243" y="-14.5" />
+              <point x="1790.10739211901" y="1454.0" />
+              <point x="2191.4760207055806" y="1454.0" />
+              <point x="2191.4760207055806" y="1015.0" />
+              <point x="2418.030018926489" y="1015.0" />
+              <point x="2418.030018926489" y="736.0" />
+              <point x="2581.864676167765" y="736.0" />
+              <point x="-31.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Cargo" target="ro.utcluj.model.Client">
+              <point x="30.0" y="14.5" />
+              <point x="515.3216167007351" y="317.0" />
+              <point x="1677.7034366719672" y="317.0" />
+              <point x="-23.041666666666515" y="-14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Sold" target="ro.utcluj.model.Client">
+              <point x="-10.14285714285711" y="14.5" />
+              <point x="1746.4772461957766" y="347.0" />
+              <point x="1730.3701033386337" y="347.0" />
+              <point x="29.625" y="-14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Sold" target="ro.utcluj.model.Dock">
+              <point x="0.0" y="-14.5" />
+              <point x="1756.6201033386337" y="218.0" />
+              <point x="1986.7884222878338" y="218.0" />
+              <point x="-21.42857142857133" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.mapper.ClientMapper" target="ro.utcluj.model.Client">
+              <point x="-15.0" y="-14.5" />
+              <point x="1489.8988095238099" y="1015.0" />
+              <point x="1393.3335903550608" y="1015.0" />
+              <point x="1393.3335903550608" y="646.0" />
+              <point x="1710.6201033386337" y="646.0" />
+              <point x="9.875" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Client" target="ro.utcluj.model.Cargo">
+              <point x="-36.208333333333485" y="-14.5" />
+              <point x="1664.5367700053002" y="337.0" />
+              <point x="501.98828336740166" y="337.0" />
+              <point x="16.666666666666515" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.model.Salenumber">
+              <point x="-51.85714285714266" y="-14.5" />
+              <point x="663.933547581195" y="1514.0" />
+              <point x="49.785971307441514" y="1514.0" />
+              <point x="49.785971307441514" y="1165.0" />
+              <point x="55.5" y="1165.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.api.LoginServiceInterface" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="0.0" y="-14.5" />
+              <point x="3040.1234374290257" y="546.0" />
+              <point x="2636.293247596336" y="546.0" />
+              <point x="22.67857142857133" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.api.CargoBaseDTO">
+              <point x="-28.0" y="-14.5" />
+              <point x="3711.3319096827913" y="1464.0" />
+              <point x="3471.6234374290257" y="1464.0" />
+              <point x="3471.6234374290257" y="536.0" />
+              <point x="2467.796819024908" y="536.0" />
+              <point x="32.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.notification.NotificationService" target="ro.utcluj.notification.ClientSocketConnection">
+              <point x="-29.599999999999966" y="-14.5" />
+              <point x="3820.0234374290258" y="776.0" />
+              <point x="3905.8997668256484" y="776.0" />
+              <point x="-35.200000000000045" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.repositories.DockRepository" target="ro.utcluj.model.Dock">
+              <point x="0.0" y="-14.5" />
+              <point x="1865.9322478991598" y="935.0" />
+              <point x="2029.7103332954805" y="935.0" />
+              <point x="2029.7103332954805" y="228.0" />
+              <point x="2008.2169937164049" y="228.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.service.ContextGetter">
+              <point x="56.29411764705901" y="-14.5" />
+              <point x="1813.9897450601866" y="1524.0" />
+              <point x="2324.317765160118" y="1524.0" />
+              <point x="-15.125" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.api.ClientServiceInterface" target="ro.utcluj.api.RentalBaseDTO">
+              <point x="60.75" y="-14.5" />
+              <point x="3634.8734374290257" y="806.0" />
+              <point x="3687.8734374290257" y="806.0" />
+              <point x="10.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.controller.LoginController">
+              <point x="43.214285714285666" y="-14.5" />
+              <point x="3058.6515097660686" y="1514.0" />
+              <point x="3344.8734374290257" y="1514.0" />
+              <point x="-32.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.model.Client">
+              <point x="-28.809523809523853" y="-14.5" />
+              <point x="686.9811666288138" y="1474.0" />
+              <point x="387.5000000000002" y="1474.0" />
+              <point x="387.5000000000002" y="576.0" />
+              <point x="1664.5367700053002" y="576.0" />
+              <point x="-36.208333333333485" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.StringProcesorInterface">
+              <point x="27.5" y="-14.5" />
+              <point x="3042.9372240517832" y="1494.0" />
+              <point x="3097.7305802861683" y="1494.0" />
+              <point x="3097.7305802861683" y="1065.0" />
+              <point x="3177.266294571883" y="1065.0" />
+              <point x="-48.85714285714289" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.model.Cargo">
+              <point x="-15.352941176470495" y="-14.5" />
+              <point x="1742.3426862366568" y="1344.0" />
+              <point x="1589.1821470209707" y="1344.0" />
+              <point x="1589.1821470209707" y="347.0" />
+              <point x="495.32161670073515" y="347.0" />
+              <point x="10.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.report.PDFReport" target="ro.utcluj.model.Cargo">
+              <point x="26.0" y="-14.5" />
+              <point x="329.0000000000002" y="327.0" />
+              <point x="461.98828336740166" y="327.0" />
+              <point x="-23.333333333333485" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.CustomUserDetailService" target="ro.utcluj.model.CustomUserDetails">
+              <point x="-60.0" y="-14.5" />
+              <point x="1274.8988095238099" y="985.0" />
+              <point x="636.1309523809527" y="985.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="-5.761904761904589" y="-14.5" />
+              <point x="710.028785676433" y="1414.0" />
+              <point x="720.6309523809527" y="1414.0" />
+              <point x="720.6309523809527" y="706.0" />
+              <point x="2554.6503904534793" y="706.0" />
+              <point x="-58.96428571428578" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.ClientServiceInterface">
+              <point x="35.72727272727275" y="-14.5" />
+              <point x="3413.350710156298" y="1105.0" />
+              <point x="3574.1234374290257" y="1105.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.ClientPage" target="ro.utcluj.controller.LoginController">
+              <point x="-42.0" y="-14.5" />
+              <point x="3697.3319096827913" y="1484.0" />
+              <point x="3410.3734374290257" y="1484.0" />
+              <point x="32.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.ClientService" target="ro.utcluj.api.RentalBaseDTO">
+              <point x="39.235294117646845" y="-14.5" />
+              <point x="1796.9309215307744" y="1474.0" />
+              <point x="2258.207471042471" y="1474.0" />
+              <point x="2258.207471042471" y="1035.0" />
+              <point x="2471.2915046559165" y="1035.0" />
+              <point x="2471.2915046559165" y="776.0" />
+              <point x="3623.3734374290257" y="776.0" />
+              <point x="-53.75" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.AdminServiceInterface">
+              <point x="-35.35714285714289" y="-14.5" />
+              <point x="2980.08008119464" y="1494.0" />
+              <point x="2792.40915171474" y="1494.0" />
+              <point x="2792.40915171474" y="1065.0" />
+              <point x="2806.00915171474" y="1065.0" />
+              <point x="-33.39999999999998" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Rental" target="ro.utcluj.model.Client">
+              <point x="-16.875" y="14.5" />
+              <point x="2019.029950034068" y="79.0" />
+              <point x="1704.0367700053002" y="79.0" />
+              <point x="3.291666666666515" y="-14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.AdminPage" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="-3.928571428571445" y="-14.5" />
+              <point x="3011.5086526232117" y="1454.0" />
+              <point x="2949.1234374290257" y="1454.0" />
+              <point x="2949.1234374290257" y="556.0" />
+              <point x="2627.2218190249077" y="556.0" />
+              <point x="13.60714285714289" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Rental" target="ro.utcluj.model.Dock">
+              <point x="16.875" y="14.5" />
+              <point x="2052.779950034068" y="129.0" />
+              <point x="2036.3419937164049" y="129.0" />
+              <point x="28.125" y="-14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.repositories.CargoRepository">
+              <point x="46.095238095238074" y="-14.5" />
+              <point x="761.8859285335757" y="1504.0" />
+              <point x="1138.8988095238099" y="1504.0" />
+              <point x="-17.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.LoginService" target="ro.utcluj.api.ClientBaseDTO">
+              <point x="40.25" y="-14.5" />
+              <point x="2510.255265160118" y="1514.0" />
+              <point x="2712.40915171474" y="1514.0" />
+              <point x="2712.40915171474" y="626.0" />
+              <point x="2590.936104739194" y="626.0" />
+              <point x="-22.67857142857133" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.CustomUserDetailService" target="ro.utcluj.repositories.ClientRepository">
+              <point x="60.0" y="-14.5" />
+              <point x="1394.8988095238099" y="1055.0" />
+              <point x="1452.0478760693466" y="1055.0" />
+              <point x="-19.28571428571422" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.report.ReportFactory" target="ro.utcluj.report.Report">
+              <point x="0.0" y="-14.5" />
+              <point x="251.41666666666697" y="1165.0" />
+              <point x="240.50000000000023" y="1165.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.controller.LoginController" target="ro.utcluj.api.AdminServiceInterface">
+              <point x="-59.545454545454504" y="-14.5" />
+              <point x="3318.077982883571" y="1045.0" />
+              <point x="2872.80915171474" y="1045.0" />
+              <point x="33.39999999999998" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.repositories.RentalRepository" target="ro.utcluj.model.Rental">
+              <point x="0.0" y="-14.5" />
+              <point x="999.3988095238099" y="1015.0" />
+              <point x="376.5000000000002" y="1015.0" />
+              <point x="376.5000000000002" y="49.0" />
+              <point x="1998.779950034068" y="49.0" />
+              <point x="-37.125" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.model.Client" target="ro.utcluj.model.Sold">
+              <point x="23.041666666666515" y="-14.5" />
+              <point x="1723.7867700053002" y="337.0" />
+              <point x="1736.3343890529195" y="337.0" />
+              <point x="-20.28571428571422" y="14.5" />
+            </edge>
+            <edge source="ro.utcluj.service.AdminService" target="ro.utcluj.mapper.CargoMapper">
+              <point x="-11.523809523809632" y="-14.5" />
+              <point x="704.266880914528" y="1444.0" />
+              <point x="454.42287606934656" y="1444.0" />
+              <point x="454.42287606934656" y="1165.0" />
+              <point x="466.50595238095275" y="1165.0" />
+              <point x="-15.125" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.32641975308641974" x="2015.0" y="823.5" />
+          <SelectedNodes>
+            <node>ro.utcluj.api.RentalBaseDTO</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
